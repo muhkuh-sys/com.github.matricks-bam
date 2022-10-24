@@ -2,7 +2,7 @@
 <jonchki-artifact version="1.0">
 	<info group="com.github.matricks"
 	      module="bam"
-	      artifact="lua5.4-bam"
+	      artifact="bam"
 	      version="@PROJECT_VERSION@"
 	      vcs-id="@PROJECT_VERSION_VCS@"
 	      extension="tar.xz"
